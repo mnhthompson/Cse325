@@ -1,0 +1,22 @@
+What would be the best data structure to model the behavior of the supply basket? Justify your answer and explain how it would be used.
+
+STACK
+
+What is the time complexity of adding new seeds to the supply basket?
+
+ O(1)
+
+
+What is the time complexity of removing seeds from the supply basket?
+
+ O(1)
+
+
+
+What is the time complexity of checking to see if the supply basket is empty?
+
+O(1)
+
+
+
+
